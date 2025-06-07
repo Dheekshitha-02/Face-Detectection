@@ -1,4 +1,4 @@
-# Face-Detectection
+# Face-Detection
 This project is a Python Flask-based web application that performs real-time face and eye detection using OpenCV and Haar Cascade classifiers. It supports both webcam-based detection and image upload-based detection through a browser interface.
 
 ## 🌟 Features
